@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1:3",
+    "name": "Components",
+    "type": "canvas",
+    "children": [
+      {
+        "id": "5:2",
+        "name": "Button",
+        "type": "frame",
+        "x": 931,
+        "y": 0,
+        "width": 1672,
+        "height": 9940,
+        "children": [
+          {"id": "7:2", "name": "Rectangle 3", "type": "rounded-rectangle", "x": 0, "y": 2416, "width": 1672, "height": 7524},
+          {
+            "id": "6:4335",
+            "name": "Button",
+            "type": "frame",
+            "x": 119,
+            "y": 92,
+            "width": 1433,
+            "height": 9647,
+            "children": [
+              {"id":"6:4336","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=No, Image=NA","type":"symbol","x":43,"y":36,"width":88,"height":42},
+              {"id":"6:4339","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=6px, Image=NA","type":"symbol","x":451,"y":36,"width":88,"height":42},
+              {"id":"6:4342","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=24px, Image=NA","type":"symbol","x":859,"y":36,"width":88,"height":42},
+              {"id":"6:4345","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Compact, Corner radius=No, Image=NA","type":"symbol","x":52,"y":853,"width":80,"height":34},
+              {"id":"6:4348","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Compact, Corner radius=6px, Image=NA","type":"symbol","x":436,"y":853,"width":80,"height":34},
+              {"id":"6:4351","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Compact, Corner radius=24px, Image=NA","type":"symbol","x":820,"y":853,"width":80,"height":34},
+              {"id":"6:4354","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Tight, Corner radius=No, Image=NA","type":"symbol","x":73,"y":1619,"width":65,"height":28},
+              {"id":"6:4357","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Tight, Corner radius=6px, Image=NA","type":"symbol","x":436,"y":1619,"width":65,"height":28},
+              {"id":"6:4360","name":"Mode=Light, Style=Flat, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Tight, Corner radius=24px, Image=NA","type":"symbol","x":799,"y":1619,"width":65,"height":28},
+              {"id":"6:4363","name":"Mode=Light, Style=Outline, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=No, Image=NA","type":"symbol","x":44,"y":433,"width":88,"height":42},
+              {"id":"6:4366","name":"Mode=Light, Style=Outline, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=6px, Image=NA","type":"symbol","x":452,"y":433,"width":88,"height":42},
+              {"id":"6:4369","name":"Mode=Light, Style=Outline, State=Default, Icon=No, Icon position=NA, Status=Basic, Size=Wide, Corner radius=24px, Image=NA","type":"symbol","x":860,"y":433,"width":88,"height":42}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5:8",
+        "name": "Datepicker",
+        "type": "frame",
+        "x": 5506,
+        "y": 0,
+        "width": 1672,
+        "height": 5056,
+        "children": [
+          {"id":"8:6327","name":"Rectangle 6","type":"rounded-rectangle","x":0,"y":2608,"width":1673,"height":2448},
+          {"id":"8:2771","name":"Datepickers","type":"frame","x":33,"y":50,"width":1605,"height":4967,
+            "children":[
+              {"id":"8:2772","name":"Type=Basic Date picker, Mode=Dark, Dropdown open=Yes, Dropdown position=Below","type":"symbol","x":146,"y":2784,"width":322,"height":448},
+              {"id":"8:2854","name":"Type=Basic Date picker, Mode=Light, Dropdown open=Yes, Dropdown position=Below","type":"symbol","x":128,"y":296,"width":322,"height":458}
+            ]
+          }
+        ]
+      },
+      {"id":"5:9","name":"Dialog","type":"frame","x":7342,"y":0,"width":780,"height":777,"children":[
+        {"id":"8:10545","name":"Rectangle 7","type":"rounded-rectangle","x":0,"y":353,"width":780,"height":424},
+        {"id":"8:10509","name":"Dialogue pop up","type":"frame","x":88,"y":78,"width":604,"height":621,
+          "children":[
+            {"id":"8:10510","name":"Mode=Dark","type":"symbol","x":51,"y":326,"width":480,"height":222},
+            {"id":"8:10522","name":"Mode=Variant2","type":"symbol","x":51,"y":31,"width":480,"height":222}
+          ]
+        }
+      ]},
+      {"id":"5:10","name":"Input","type":"frame","x":8286,"y":0,"width":1200,"height":4337,"children":[
+        {"id":"8:11331","name":"Rectangle 8","type":"rounded-rectangle","x":0,"y":2117,"width":1200,"height":2220},
+        {"id":"8:10547","name":"Input field","type":"frame","x":78,"y":44,"width":1043,"height":4189,"children":[
+          {"id":"8:10548","name":"Mode=Dark, State=Default, Label=Yes, Supporting text=Yes, Leading icon=No, Trailing icon=No","type":"symbol","x":16,"y":3344,"width":300,"height":103}
+        ]}
+      ]},
+      {"id":"5:11","name":"Modal","type":"frame","x":9650,"y":0,"width":718,"height":687,"children":[
+        {"id":"8:19655","name":"Rectangle 12","type":"rounded-rectangle","x":0,"y":331,"width":718,"height":446},
+        {"id":"8:19625","name":"Modal","type":"frame","x":65,"y":63,"width":544,"height":572,"children":[
+          {"id":"8:19626","name":"Mode=Dark","type":"symbol","x":16,"y":315,"width":512,"height":204},
+          {"id":"8:19638","name":"Mode=Light","type":"symbol","x":16,"y":29,"width":512,"height":204}
+        ]}
+      ]},
+      {"id":"5:12","name":"Radio","type":"frame","x":10532,"y":0,"width":337,"height":550,"children":[
+        {"id":"8:20116","name":"Rectangle 13","type":"rounded-rectangle","x":0,"y":236,"width":337,"height":314},
+        {"id":"8:19656","name":"Radio button","type":"frame","x":66,"y":51,"width":205,"height":422,"children":[
+          {"id":"8:19657","name":"Mode=Dark, Selected=No, Text=No, State=Default","type":"symbol","x":28,"y":228,"width":20,"height":20}
+        ]}
+      ]},
+      {"id":"33:6453","name":"Datepicker dates","type":"frame","x":5506,"y":5239,"width":450,"height":550,"children":[
+        {"id":"33:6454","name":"Rectangle 13","type":"rounded-rectangle","x":0,"y":236,"width":450,"height":314},
+        {"id":"33:3990","name":"Datepicker dates","type":"frame","x":46,"y":75,"width":371,"height":356,"children":[
+          {"id":"33:3991","name":"Mode=Dark, Current month/weekday=No, State=Default","type":"symbol","x":20,"y":193,"width":42,"height":42}
+        ]}
+      ]},
+      {"id":"5:13","name":"Select","type":"frame","x":11154,"y":0,"width":1200,"height":13042,"children":[
+        {"id":"8:13970","name":"Rectangle 10","type":"rounded-rectangle","x":0,"y":6619,"width":1200,"height":6423},
+        {"id":"8:11471","name":"Select","type":"frame","x":81,"y":70,"width":975,"height":12872,"childrenSummary":"Many select variant symbols (truncated)"}
+      ]},
+      {"id":"8:13971","name":"Multi-select","type":"frame","x":12518,"y":0,"width":1200,"height":13042,"children":[
+        {"id":"8:13972","name":"Rectangle 10","type":"rounded-rectangle","x":0,"y":6619,"width":1200,"height":6423},
+        {"id":"8:16471","name":"Multi-select","type":"frame","x":136,"y":53,"width":927,"height":12893,"childrenSummary":"Many multi-select variant symbols (truncated)"}
+      ]},
+      {"id":"5:14","name":"Textarea","type":"frame","x":13882,"y":0,"width":1200,"height":6412,"children":[
+        {"id":"8:20505","name":"Rectangle 15","type":"rounded-rectangle","x":0,"y":3192,"width":1200,"height":3220},
+        {"id":"8:20297","name":"Textarea","type":"frame","x":87,"y":93,"width":1025,"height":6226,"childrenSummary":"Textarea variants truncated"}
+      ]},
+      {"id":"5:15","name":"Toggle","type":"frame","x":15246,"y":0,"width":659,"height":1605,"children":[
+        {"id":"8:11470","name":"Rectangle 9","type":"rounded-rectangle","x":0,"y":779,"width":659,"height":826},
+        {"id":"8:11332","name":"Toggle","type":"frame","x":59,"y":41,"width":541,"height":1523,"childrenSummary":"Toggle variants truncated"}
+      ]},
+      {"id":"5:16","name":"Tooltip","type":"frame","x":16069,"y":0,"width":363,"height":415,"children":[
+        {"id":"8:19624","name":"Rectangle 11","type":"rounded-rectangle","x":0,"y":185,"width":363,"height":230},
+        {"id":"8:19610","name":"Tooltip","type":"frame","x":79,"y":48,"width":206,"height":319,"children":[
+          {"id":"8:19611","name":"Mode=Dark, Corner radsius=0px","type":"symbol","x":27,"y":158,"width":113,"height":26}
+        ]}
+      ]},
+      {"id":"5:5","name":"Alert","type":"frame","x":-80,"y":0,"width":847,"height":1352,"children":[
+        {"id":"6:182","name":"Rectangle 2","type":"rounded-rectangle","x":0,"y":206,"width":847,"height":1146},
+        {"id":"6:64","name":"Alert","type":"frame","x":197,"y":98,"width":449,"height":1187,"childrenSummary":"Alert variant symbols truncated"}
+      ]},
+      {"id":"5:6","name":"Accordion","type":"frame","x":-997,"y":0,"width":740,"height":1042,"children":[
+        {"id":"12:3984","name":"Rectangle 16","type":"rounded-rectangle","x":0,"y":503,"width":740,"height":539},
+        {"id":"12:4458","name":"Accordian","type":"frame","x":164,"y":170,"width":371,"height":702,"children":[
+          {"id":"12:4459","name":"Mode=Light","type":"symbol","x":16,"y":16,"width":339,"height":308},
+          {"id":"12:4467","name":"Mode=Dark","type":"symbol","x":16,"y":369,"width":339,"height":308}
+        ]}
+      ]},
+      {"id":"12:4035","name":"Accordion elements","type":"frame","x":-997,"y":1145,"width":740,"height":1042,"children":[
+        {"id":"12:4036","name":"Rectangle 16","type":"rounded-rectangle","x":0,"y":503,"width":740,"height":539},
+        {"id":"12:4037","name":"Accordion elements","type":"frame","x":134,"y":66,"width":473,"height":894,"children":[
+          {"id":"12:4038","name":"Mode=Dark, State=Default, Accordion opened=No","type":"symbol","x":48,"y":446,"width":339,"height":44},
+          {"id":"12:4043","name":"Mode=Light, State=Default, Accordion opened=No","type":"symbol","x":48,"y":40,"width":339,"height":44}
+        ]}
+      ]}
+    ]
+  }
+]
